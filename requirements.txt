@@ -1,0 +1,10 @@
+pandas
+numpy
+polars
+matplotlib
+plotnine
+pyarrow
+geopolars
+geopandas
+seaborn
+hvplot>=0.9.1
